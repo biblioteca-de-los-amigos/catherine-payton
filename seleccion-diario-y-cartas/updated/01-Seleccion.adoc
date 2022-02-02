@@ -344,7 +344,7 @@ He visto que todo eso fue necesario para prepararme
 para el servicio que había sido designado para mí,
 para que el fundamento de mi fe estuviera establecido en la certeza,
 y para que pudiera testificar con valentía que había
-experimentado lo que afirmaba que era la verdad;
+__experimentado__ lo que afirmaba que era la verdad;
 y además, para estar adecuadamente calificada para simpatizar con, y ministrar a,
 los que estaban en un estado similar.
 Pronto vi para qué oficio estaba designada en la iglesia de Cristo.
@@ -469,7 +469,7 @@ cuando concedido en la sabiduría divina.
 [.asterism]
 '''
 
-+++[+++Nota del editor: En este punto de su diario,
++++[+++__Nota del editor:__ En este punto de su diario,
 Catherine Payton comenzó un relato detallado de sus viajes en la obra del ministerio,
 cuyos servicios la mantuvieron ocupada casi continuamente
 los siguientes veinte años de su vida.
@@ -490,14 +490,17 @@ por las colonias en América entre 1753 y 1756.
 Se incluye un extracto del diario de Rebecca Jones,
 para darle contexto a la carta que sigue.]
 
+[.offset]
 Rebecca Jones escribe:
 
+[quote]
+____
 En el año 1754, a mis dieciséis años,
 vino de la vieja Inglaterra en visita religiosa a las iglesias de Cristo en América,
 Catherine Payton, en compañía de Mary Peisley de Irlanda.
 Estuve con Catherine Payton en varias reuniones en esta ciudad,
 y escuché varios de los testimonios que ella dio, con los que me sentí muy complacida;
-pero como muchos otros sólo escuché y no busqué aprender
+pero como muchos otros sólo __escuché__ y no busqué aprender
 el camino de salvación con sinceridad.
 ¡Pero bendito y alabado sea para siempre el gran
 Ministro de todos los ministros y Obispo de las almas,
@@ -560,11 +563,18 @@ Al recibir y leer esta carta, mi corazón se derritió en gran ternura delante d
 y mi mente se animó a confiar en Su ilimitada misericordia, así extendida a mí,
 una pobre e indigna criatura.
 Tal vez su lectura reviva la esperanza de alguna alma afligida.
+____
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Catherine Payton a Rebecca Jones
 
+[.signed-section-context-open]
 Filadelfia, 4 del mes Uno, 1755.
 
+[.salutation]
 Querida niña,
 
 He leído cuidadosamente tu carta, y por la ternura de espíritu que siento hacia ti,
@@ -607,11 +617,19 @@ que hará todo lo posible por hacértela llegar.
 Adiós y que el Señor continúe bendiciéndote.
 Termino, con mucha prisa, tu compasiva amiga,
 
+[.signed-section-signature]
 Catherine Payton.
 
-P.S. Prefiero que guardes esto para ti;
+[.postscript]
+====
+
+P+++.+++ S.-- Prefiero que guardes esto para ti;
 y asegúrate de ser cuidadosa de la manera que cuentas tu
 condición a quienes no tienen entendimiento de ella.
+
+====
+
+--
 
 [.asterism]
 '''
@@ -623,9 +641,13 @@ quienes habían renunciado en parte a su anterior profesión
 religiosa y se sentaban juntas a esperar en el Señor,
 pero que todavía se encontraban en un estado inestable.]
 
-A los pocos que han sido convencidos de la rectitud de esperar en el Señor en silencio,
-y acostumbran reunirse para ese buen fin en Cardiff.
+[.embedded-content-document.letter]
+--
 
+[.blurb]
+=== A los pocos que han sido convencidos de la rectitud de esperar en el Señor en silencio, y acostumbran reunirse para ese buen fin en Cardiff.
+
+[.salutation]
 Amigos,
 
 Me siento movida a saludarlos tanto en el amor del
@@ -725,11 +747,16 @@ se mantengan más cerca del Guía divino en el futuro,
 y de esa manera sean revestidos con sabiduría y fuerza,
 y experimenten la salvación y paz que las acompañan.
 
+[.signed-section-closing]
 Su sincera amiga,
 
+[.signed-section-signature]
 Catherine Payton.
 
+[.signed-section-context-close]
 Dudley, 16 del mes Tres, llamado Marzo, 1752.
+
+--
 
 [.asterism]
 '''
@@ -742,13 +769,17 @@ a la temprana Sociedad de Amigos;
 y en su lugar, se habían establecido en un formalismo sin vida, por un lado,
 y en una libertad carnal, por otro.]
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Queridos hermanos,
 
 Porque con un sentimiento de compasión evangélica puedo llamarlos así--¿han
 considerado seriamente alguna vez que "`no tenemos aquí ciudad permanente`"?^
 footnote:[Hebreos 13:14]
 ¿Han entendido, que dado que sus almas son inmortales,
-el asunto principal de sus vidas debería ser buscarles morada adecuada a su ser y naturaleza,
+el asunto _principal_ de sus vidas debería ser buscarles morada adecuada a su ser y naturaleza,
 en la que puedan tener una residencia feliz para siempre, que sólo se halla en Dios,
 quien es la fuente y la provisión de Su pueblo?
 
@@ -887,8 +918,7 @@ Los negligentes y descuidados, los de corazón duro y que están lejos de la jus
 pueden recibir instrucción al ver el fin de los de similar parecer en todas las generaciones.
 Estos no han escapado de los justos juicios del Todopoderoso,
 quien ha sellado como una verdad cierta: "`Ciertamente hay galardón para el justo;
-ciertamente hay Dios que juzga en la tierra.`"
-^
+ciertamente hay Dios que juzga en la tierra.`"^
 footnote:[Salmo 58:11]
 
 Y ahora, queridos amigos,
@@ -916,11 +946,16 @@ Por último, queridos hermanos, me despido; y que la gracia de nuestro Señor Je
 el amor de Dios y la comunión del Espíritu Santo estén con todos ustedes.
 Amén.
 
+[.signed-section-closing]
 Su amiga y hermana en la Verdad,
 
+[.signed-section-signature]
 Catherine Payton
 
+[.signed-section-context-close]
 Dudley, 10 del mes Diez, 1758.
+
+--
 
 [.asterism]
 '''
@@ -938,8 +973,13 @@ sabía que eran inconsistentes con la profesión de la Verdad,
 la desechó; diciendo,
 que él no quería retener el nombre (de Cuáquero) y ser un reproche para la gente.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 A su hermano, Henry Payton.
 
+[.salutation]
 Querido hermano,
 
 Hasta ahora, cuando he estado lejos de ti,
@@ -1044,7 +1084,7 @@ He considerado que el amor es la pasión que gobierna en el alma, la cual, segú
 arrastra todo lo demás tras de sí;
 y al estar fuertemente fijada en un objeto digno o indigno,
 es la causa de nuestro gozo o de nuestra miseria.
-Concedido esto, debemos considerar entonces, qué objeto es digno de todo nuestro afecto;
+Concedido esto, debemos considerar entonces, __qué__ objeto es digno de todo nuestro afecto;
 y en esta consideración se debe recordar que esta semilla de amor, o deseo de disfrute,
 está tan profundamente arraigada en el alma, que no puede ser sacada de ahí. Ahora bien,
 cualquier objeto que merezca que nuestra alma gaste su fuerza en él,
@@ -1143,16 +1183,21 @@ podrían llenar un volumen en lugar de una carta.
 Que el eterno Ministro del santuario los amplíe a la vista de tu entendimiento,
 para tu beneficio duradero, es el sincero y ardiente deseo de tu afectuosa hermana,
 
+[.signed-section-signature]
 Catherine Payton.
 
+[.signed-section-context-close]
 Escrito en el mar a bordo del Alexander,
 
+[.signed-section-context-close]
 6 del mes Diez, 1753.
+
+--
 
 [.asterism]
 '''
 
-Como se mencionó anteriormente, Catherine Payton entró en la obra del ministerio en 1748,
+__Como se mencionó anteriormente, Catherine Payton entró en la obra del ministerio en 1748,
 a los 22 años,
 y viajó casi incesantemente en la obra del evangelio
 hasta su matrimonio con William Phillips en 1772.
@@ -1162,9 +1207,9 @@ y estar cada vez más afligida por rigidez en sus articulaciones que "`desconcer
 todo tratamiento médico,`" fue lentamente reducida a una condición bastante débil,
 y al final se vio largamente confinada a su casa en Cornwall.
 Murió el 16 del mes Ocho, 1794, a los sesenta y ocho años,
-y cuarenta y seis años de ministerio.
+y cuarenta y seis años de ministerio.__
 
-Es difícil trasmitir el verdadero valor de esta sierva del Señor,
+__Es difícil trasmitir el verdadero valor de esta sierva del Señor,
 la influencia de su ministerio,
 o la estima que le tenían sus contemporáneos y compañeros de ministerio.
 El siguiente pasaje está tomado del diario de Sarah R. Grubb,
@@ -1185,4 +1230,4 @@ esta convicción fue profundamente renovada y sellada en mí;
 pues sentí una persuasión interna muy fuerte y una incuestionable evidencia,
 de que ella era una fiel seguidora del Cordero.
 En efecto, oí un dulce lenguaje fluyendo a través de mi mente que decía:
-'`Yo la he escogido y es Mía.`'`"
+Yo la he escogido y es Mía.`"__
