@@ -1,4 +1,9 @@
-#__id__ .title-wrap .title {
+#__id__.trim--s .title-wrap .title {
   font-size: 16.5%;
+}
+
+#__id__.trim--m .title-wrap,
+#__id__.trim--xl .title-wrap {
+  padding: 0 40px;
 }
 
